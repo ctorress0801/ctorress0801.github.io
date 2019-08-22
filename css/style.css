@@ -3,6 +3,9 @@
 
 PROJECT:	Github Pages Personale Website
 VERSION:	1.0
+---------------------------------------------------------------------
+#myid   element with id = myid
+.c      all elements with class c
 -------------------------------------------------------------------*/
 
 /* Style the navbar */
@@ -24,6 +27,7 @@ VERSION:	1.0
 /* Page content */
 .content {
     padding: 16px;
+    text-align: right;
 }
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
